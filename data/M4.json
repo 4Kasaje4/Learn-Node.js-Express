@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "Name": "Iruka",
+        "age": 42
+    },
+    {
+        "id": 2,
+        "Name": "Hunso",
+        "age": 45
+    },
+    {
+        "id": 3,
+        "Name": "Danso",
+        "age": 44
+    },
+    {
+        "id": 4,
+        "Name": "Tobimara",
+        "age": 47
+    },
+    {
+        "id": 5,
+        "Name": "Hachirama",
+        "age": 49
+    }
+    
+]
